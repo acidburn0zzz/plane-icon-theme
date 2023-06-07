@@ -24,7 +24,7 @@
   "devDependencies": {
     "async": "^2.6.0",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-foreach": "^0.1.0",
     "gulp-svgmin": "^1.2.4",
     "gulp-watch": "^5.0.0",
